@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+#binary folder
+bin/
+
+#idea
+.idea/
+.eclipse
+.vscode/
